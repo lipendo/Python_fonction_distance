@@ -1,0 +1,14 @@
+Pour exécuter ce script dans l'invite de commande, il faut :
+
+1.	Installer Python 3 sur l'ordinateur;
+2.	exécuter la commande suivante :      pip install geopy
+
+
+
+geopy est une bibliothèque Python qui fournit des fonctionnalités de 
+géocodage (conversion d'adresses en coordonnées géographiques) et 
+de calcul de distances géographiques.
+
+
+
+Les coordonnées à entrer dans l'invite de commande doivent être en décimales.
